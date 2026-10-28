@@ -26,12 +26,12 @@ Aplikasi KursusKu adalah proyek antarmuka (UI) pendaftaran akun berbasis Android
    ```bash
    git clone [https://github.com/RakhaRoderick/Kursusku]
 
-1.Buka Android Studio.
+1. Buka Android Studio.
 
-2.Pilih File > Open, lalu cari folder proyek yang baru saja di-clone.
+2. Pilih File > Open, lalu cari folder proyek yang baru saja di-clone.
 
-3.Tunggu hingga proses sinkronisasi Gradle selesai (indikator loading di pojok kanan bawah hilang).
+3. Tunggu hingga proses sinkronisasi Gradle selesai (indikator loading di pojok kanan bawah hilang).
 
-4.Pilih emulator atau device fisik pada panel perangkat di atas.
+4. Pilih emulator atau device fisik pada panel perangkat di atas.
 
-5.Klik tombol Run (ikon segitiga hijau) atau tekan Shift + F10 untuk menjalankan aplikasi.
+5. Klik tombol Run (ikon segitiga hijau) atau tekan Shift + F10 untuk menjalankan aplikasi.
